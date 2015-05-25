@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  25 MAY 2015 18:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  25 MAY 2015 18:35
 entering extended mode
 **document.tex
 (C:\Users\Bhavi\latex\document.tex
@@ -184,26 +184,32 @@ File: images/aniket-002.jpg Graphic file (type jpg)
 <use images/aniket-002.jpg>
 Package pdftex.def Info: images/aniket-002.jpg used on input line 10.
 (pdftex.def)             Requested size: 76.2848pt x 100.37474pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
  [1
 
 {C:/Users/Bhavi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Bh
-avi/latex/images/aniket-002.jpg>]
-(C:\Users\Bhavi\latex\document.aux) ) 
+avi/latex/images/aniket-002.jpg>] (C:\Users\Bhavi\latex\document.aux) ) 
 Here is how much of TeX's memory you used:
- 1747 strings out of 493921
- 24005 string characters out of 3144876
+ 1764 strings out of 493921
+ 24308 string characters out of 3144876
  83010 words of memory out of 3000000
- 5053 multiletter control sequences out of 15000+200000
+ 5067 multiletter control sequences out of 15000+200000
  7639 words of font info for 27 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,6n,23p,244b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb>
-Output written on document.pdf (1 page, 77343 bytes).
+<C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on document.pdf (1 page, 81165 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
